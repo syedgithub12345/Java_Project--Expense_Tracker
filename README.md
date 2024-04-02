@@ -18,7 +18,7 @@ Here're some of the project's best features:
 <p>2. Clone this repository</p>
 
 ```
-git clone https://github.com/syedgithub12345/Java_Project- Expense_Tracker
+git clone https://github.com/syedgithub12345/Java_Project--Expense_Tracker
 ```
 
 <p>3. MySQL</p>
